@@ -56,8 +56,34 @@ const CONFIG = {
   HEO_INFO_CARD_URL3: 'https://github.com/netput-web',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
-  // 用户技能图标
-        title_1: 'Swift',
+   // 用户技能图标
+  HEO_GROUP_ICONS: [
+    {
+      title_1: 'AfterEffect',
+      img_1: 'https://tuchuang.kk218.com/bankicon/SPDB_LG.png',
+      color_1: '#989bf8',
+      title_2: 'Sketch',
+      img_2: 'https://tuchuang.kk218.com/bankicon/PSBC_LG.png',
+      color_2: '#f8e71c'
+    },
+    {
+      title_1: 'Docker',
+      img_1: 'https://tuchuang.kk218.com/bankicon/ICBC_LG.png',
+      color_1: '#57b6e6',
+      title_2: 'Photoshop',
+      img_2: 'https://tuchuang.kk218.com/bankicon/HXBANK_LG.png',
+      color_2: '#4082c3'
+    },
+    {
+      title_1: 'FinalCutPro',
+      img_1: 'https://tuchuang.kk218.com/bankicon/DANDONGBANK_LG.png',
+      color_1: '#4e82e0',
+      title_2: 'Python',
+      img_2: 'https://tuchuang.kk218.com/bankicon/COMM_LG.png',
+      color_2: '#3ed4e8'
+    },
+    {
+      title_1: 'Swift',
       img_1: 'https://tuchuang.kk218.com/bankicon/CMB_LG.png',
       color_1: '#eb6840',
       title_2: 'Principle',
