@@ -60,58 +60,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: 'https://tuchuang.kk218.com/bankicon/SPDB_LG.png',
+      img_1: '/images/heo/SPDB_LG.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: 'https://tuchuang.kk218.com/bankicon/PSBC_LG.png',
+      img_2: '/images/heo/PSBC_LG.png',
       color_2: '#f8e71c'
     },
     {
       title_1: 'Docker',
-      img_1: 'https://tuchuang.kk218.com/bankicon/ICBC_LG.png',
+      img_1: '/images/heo/ICBC_LG.png',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: 'https://tuchuang.kk218.com/bankicon/HXBANK_LG.png',
+      img_2: '/images/heo/HXBANK_LG.png',
       color_2: '#4082c3'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: 'https://tuchuang.kk218.com/bankicon/DANDONGBANK_LG.png',
+      img_1: '/images/heo/DANDONGBANK_LG.png',
       color_1: '#4e82e0',
       title_2: 'Python',
-      img_2: 'https://tuchuang.kk218.com/bankicon/COMM_LG.png',
+      img_2: '/images/heo/COMM_LG.png',
       color_2: '#3ed4e8'
     },
     {
       title_1: 'Swift',
-      img_1: 'https://tuchuang.kk218.com/bankicon/CMB_LG.png',
+      img_1: '/images/heo/CMB_LG.png',
       color_1: '#eb6840',
       title_2: 'Principle',
-      img_2: 'https://tuchuang.kk218.com/bankicon/CMBC_LG.png',
+      img_2: '/images/heo/CMBC_LG.png',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
-      img_1: 'https://tuchuang.kk218.com/bankicon/CITIC_LG.png',
+      img_1: '/images/heo/CITIC_LG.png',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: 'https://tuchuang.kk218.com/bankicon/CGB_LG.png',
+      img_2: '/images/heo/CGB_LG.png',
       color_2: '#2c51db'
     },
     {
       title_1: 'JS',
-      img_1: 'https://tuchuang.kk218.com/bankicon/CCB_LG.png',
+      img_1: '/images/heo/CCB_LG.png',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: 'https://tuchuang.kk218.com/bankicon/BOC_LG.png',
+      img_2: '/images/heo/BOC_LG.png',
       color_2: '#e9572b'
     },
     {
       title_1: 'Git',
-      img_1: 'https://tuchuang.kk218.com/bankicon/ABC_LG.png',
+      img_1: '/images/heo/ABC_LG.png',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: 'https://tuchuang.kk218.com/bankicon/BJBANK_LG.png',
+      img_2: '/images/heo/BJBANK_LG.png',
       color_2: '#d69429'
     }
   ],
