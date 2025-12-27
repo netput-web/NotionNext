@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.kk218.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://blog.kk218.com' }
+    { title: '访问文档中心获取更多帮助', url: '/about' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/netput-web',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://github.com/netput-web',
+  HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
    // 用户技能图标
