@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'BLOG.KK218.COM',
   HEO_HERO_TITLE_4: '蜗牛老师博客正式上线',
   HEO_HERO_TITLE_5: '学习解债知识 提高解债水平',
-  HEO_HERO_TITLE_LINK: 'https://blog.kk218.com',
+  HEO_HERO_TITLE_LINK: '/about',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
